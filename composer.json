@@ -1,0 +1,8 @@
+{
+  "name"      : "crud/miscapu",
+  "autoload"  : {
+    "psr-4"   : {
+      "App\\" : "app/"
+    }
+  }
+}
